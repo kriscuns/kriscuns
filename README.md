@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kriscuns
-- 👀 I’m interested in learning new things, such as programming, languages or just studying in general.
-- 🌱 I’m currently learning C.
+- 👀 Currently enrolled in Harvard's edX CS50 program.
 
 <!---
 kriscuns/kriscuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

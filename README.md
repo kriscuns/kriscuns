@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kriscuns
-- 👀 Currently enrolled in Harvard's edX CS50 program.
+- 👀 Currently enrolled in Harvard's edX CS50P program.
 
 <!---
 kriscuns/kriscuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
